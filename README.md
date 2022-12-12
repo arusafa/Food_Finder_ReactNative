@@ -1,5 +1,14 @@
-# My Universal React Project
+# My Restaurant React-Native Project
 
+# Group - 41
+# Comp 3074 - Mobile Application Development
+# Team Members:
+# 1. Safa Aru - 101331910
+# 2. Hakan Inel - 101213098
+# 3. Onur Korkmaz - 101303363
+# 4. Ahmet Buyukbas - 101304595
+
+# Project Description
 <p>
   <!-- iOS -->
   <a href="https://itunes.apple.com/app/apple-store/id982107779">

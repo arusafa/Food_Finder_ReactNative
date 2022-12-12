@@ -1,15 +1,13 @@
-import { View, Text } from "react-native";
+import React from "react";
+import { SafeAreaView } from "react-native";
+
+import RootNavigation from "./Navigation";
+
 
 export default function App() {
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <Text>Universal React with Expo</Text>
-    </View>
+      <SafeAreaView style={{flex:1,  backgroundColor:"#e9f7f4", margin:5}}>
+        <RootNavigation/>
+      </SafeAreaView>
   );
 }
